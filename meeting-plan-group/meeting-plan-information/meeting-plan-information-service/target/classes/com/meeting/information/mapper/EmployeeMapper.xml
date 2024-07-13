@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.meeting.information.mapper.EmployeeMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.meeting.information.model.po.Employee">
+        <id column="employeeid" property="employeeid" />
+        <result column="employeename" property="employeename" />
+        <result column="username" property="username" />
+        <result column="phone" property="phone" />
+        <result column="email" property="email" />
+        <result column="departmentid1" property="departmentid1" />
+        <result column="password" property="password" />
+        <result column="role" property="role" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        employeeid, employeename, username, phone, email, departmentid1, password, role
+    </sql>
+
+</mapper>

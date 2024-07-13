@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.ahubimk</groupId>
+        <artifactId>meeting-plan-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version><!-- lookup parent from repository -->
+        <relativePath>../meeting-plan-parent</relativePath>
+    </parent>
+    <artifactId>meeting-plan-information</artifactId>
+    <name>meeting-plan-information</name>
+    <description>meeting-plan-information</description>
+  <packaging>pom</packaging>
+    <modules>
+        <module>meeting-plan-information-api</module>
+       <module>meeting-plan-information-model</module>
+        <module>meeting-plan-information-service</module>
+    </modules>
+
+
+</project>
