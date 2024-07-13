@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc4bb3da-2c5f-4b35-a83a-e898f5e98049" name="更改" comment="xiao">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meeting-plan-base/src/main/java/com/ahubimk/base/execption/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meeting-plan-base/src/main/java/com/ahubimk/base/execption/MeetingPlanException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meeting-plan-system/meeting-plan-system-api/meeting-plan-system-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meeting-plan-system/meeting-plan-system-model/meeting-plan-system-model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meeting-plan-system/meeting-plan-system-service/meeting-plan-system-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meeting-plan-system/meeting-plan-system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/generator/MeetingsCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/generator/MeetingsCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/controller/FreetimeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/controller/MeetingBaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/controller/MeetingStaffController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/controller/MeetingroomController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/controller/StaffBaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/FreetimeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/FreetimeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/MeetingBaseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/MeetingBaseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/MeetingStaffMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/MeetingStaffMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/MeetingroomMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/MeetingroomMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/StaffBaseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/mapper/StaffBaseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/model/po/Freetime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/model/po/MeetingBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/model/po/MeetingStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/model/po/Meetingroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/model/po/StaffBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/FreetimeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/MeetingBaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/MeetingStaffService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/MeetingroomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/StaffBaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/impl/FreetimeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/impl/MeetingBaseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/impl/MeetingStaffServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/impl/MeetingroomServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/src/main/java/com/meeting/information/service/impl/StaffBaseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/BankCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/BankCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/CommonCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/CommonCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/LearningCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/LearningCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/MediaCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/MediaCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/MeetingsCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/MeetingsCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/MessageCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/MessageCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/OrderCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/OrderCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/SystemCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/SystemCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/UcenterCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-generator/target/classes/com/meeting/generator/UcenterCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-api/src/main/java/com/meeting/information/api/MeetingBaseInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-api/src/main/java/com/meeting/information/api/MeetingBaseInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-api/target/classes/com/meeting/information/api/MeetingBaseInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-api/target/classes/com/meeting/information/api/MeetingBaseInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/dto/AddMeetingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/dto/AddMeetingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/dto/MeetingBaseInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/dto/MeetingBaseInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/po/Freetime.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/po/Freetime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/po/MeetingBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/po/MeetingBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/src/main/java/com/meeting/information/model/po/Meetingroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/target/classes/com/meeting/information/model/po/Freetime.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/target/classes/com/meeting/information/model/po/Freetime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/target/classes/com/meeting/information/model/po/MeetingBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/target/classes/com/meeting/information/model/po/MeetingBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/target/classes/com/meeting/information/model/po/Meetingroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-model/target/classes/com/meeting/information/model/po/Meetingroom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/mapper/FreetimeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/mapper/FreetimeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/mapper/MeetingBaseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/mapper/MeetingBaseMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/mapper/MeetingroomMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/mapper/MeetingroomMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/service/MeetingInformationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/service/MeetingInformationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/service/impl/MeetingInformationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/service/impl/MeetingInformationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/FreetimeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/FreetimeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/MeetingBaseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/MeetingBaseMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/MeetingroomMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/MeetingroomMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/MeetingroomMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/mapper/MeetingroomMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/service/MeetingInformationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/service/MeetingInformationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/service/impl/MeetingInformationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-service/target/classes/com/meeting/information/service/impl/MeetingInformationServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repo" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2j3VSS7zBf06QR5fE6PAHlgO37k" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MeetingPlanInformationApiApplication.executor": "Debug",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/meeting/code_01/meeting-plan-group/meeting-plan-information/meeting-plan-information-service/src/main/java/com/meeting/information/mapper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.MeetingsCodeGenerator.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\meeting\code_01\meeting-plan-group\meeting-plan-information\meeting-plan-information-service\src\main\java\com\meeting\information\mapper" />
+      <recent name="E:\meeting\code_01\meeting-plan-group\meeting-plan-information\meeting-plan-information-model\src\main\java\com\meeting\information\model\dto" />
+      <recent name="E:\meeting\code_01\meeting-plan-group" />
+      <recent name="E:\meeting\code_01\meeting-plan-group\meeting-plan-information\meeting-plan-information-service\src\main\java\com\meeting\information" />
+      <recent name="E:\meeting\code_01\meeting-plan-group\meeting-plan-information\meeting-plan-information-model\src\main\java\com\meeting\information\model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meeting.information.model.po" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MeetingPlanInformationApiApplication">
+    <configuration name="MeetingsCodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meeting.generator.MeetingsCodeGenerator" />
+      <module name="meeting-plan-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meeting.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetingPlanInformationApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="meeting-plan-information-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.meeting.MeetingPlanInformationApiApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meeting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MeetingPlanInformationApiApplication" />
+        <item itemvalue="应用程序.MeetingsCodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dc4bb3da-2c5f-4b35-a83a-e898f5e98049" name="更改" comment="" />
+      <created>1720615746583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720615746583</updated>
+      <workItem from="1720615747648" duration="76000" />
+      <workItem from="1720754227347" duration="308000" />
+      <workItem from="1720762271129" duration="32557000" />
+    </task>
+    <task id="LOCAL-00001" summary="xiao">
+      <option name="closed" value="true" />
+      <created>1720774681302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720774681303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xiao">
+      <option name="closed" value="true" />
+      <created>1720774970895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720774970896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xiao" />
+    <option name="LAST_COMMIT_MESSAGE" value="xiao" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/meeting-plan-information/meeting-plan-information-api/src/main/java/com/meeting/information/api/MeetingBaseInfoController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

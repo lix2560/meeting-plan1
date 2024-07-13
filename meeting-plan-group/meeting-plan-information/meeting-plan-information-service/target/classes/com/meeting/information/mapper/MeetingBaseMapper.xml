@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.meeting.information.mapper.MeetingBaseMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.meeting.information.model.po.MeetingBase">
+        <id column="id" property="id" />
+        <result column="meeting_name" property="meetingName" />
+        <result column="prio" property="prio" />
+        <result column="meeting_type" property="meetingType" />
+        <result column="meeting_description" property="meetingDescription" />
+        <result column="create_date" property="createDate" />
+        <result column="change_date" property="changeDate" />
+        <result column="create_people" property="createPeople" />
+        <result column="change_people" property="changePeople" />
+        <result column="audit_status" property="auditStatus" />
+        <result column="state" property="state" />
+        <result column="room_id" property="roomId" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, meeting_name, prio, meeting_type, meeting_description, create_date, change_date, create_people, change_people, audit_status, state, room_id
+    </sql>
+
+</mapper>

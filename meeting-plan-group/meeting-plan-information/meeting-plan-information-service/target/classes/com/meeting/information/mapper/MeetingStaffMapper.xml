@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.meeting.information.mapper.MeetingStaffMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.meeting.information.model.po.MeetingStaff">
+        <id column="id" property="id" />
+        <result column="meeting_id" property="meetingId" />
+        <result column="staff_id" property="staffId" />
+        <result column="need" property="need" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, meeting_id, staff_id, need
+    </sql>
+
+</mapper>
